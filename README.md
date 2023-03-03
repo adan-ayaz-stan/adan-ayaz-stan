@@ -1,4 +1,4 @@
-## Sup homie! Ma name, as you can see, is on the top left corner.
+## Sup homie! Ma name, as you can see, is on the middle left side.
 
 I'm a front end heavy full stack developer. 
 My tech stack includes HTML, CSS, JavaScript, TypeScript, and Python as far as languages are concerned.
