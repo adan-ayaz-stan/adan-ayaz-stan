@@ -1,4 +1,4 @@
-## Sup homie! Ma name, as you can see, is on the middle left side.
+## Sup seeker!
 
 I'm a front end heavy full stack developer. 
 
