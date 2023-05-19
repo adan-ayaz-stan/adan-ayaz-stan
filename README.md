@@ -1,10 +1,16 @@
 ## Sup seeker!
-
 <h3 align="left">Hii there! I'm Adan Ayaz</h3>
 
 ###
 
 <p align="left">I am a seasoned Full Stack Developer with expertise in frontend and backend development, utilizing various frameworks and languages.<br><br>I have experience in building real-time applications and complex web components.<br><br>As a freelancer, I take on diverse projects.<br><br>My versatile skill set and diverse interests drive me to deliver exceptional results.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adan-ayaz-stan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adan-ayaz-stan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -40,5 +46,12 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adan-ayaz-stan/adan-ayaz-stan/output/snake.svg" alt="Snake animation" />
+
+###
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=adan-ayaz-stan&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
