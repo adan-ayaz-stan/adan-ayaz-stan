@@ -1,5 +1,5 @@
-## Sup seeker!
-<h3 align="left">Hii there! I'm Adan Ayaz</h3>
+## Spitfire here!
+<h3 align="left">Hey there! I'm Adan Ayaz</h3>
 
 ###
 
