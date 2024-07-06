@@ -5,11 +5,13 @@
 
 <p align="left">Full Stack Web 2 & 3 Engineer with 5 years of development experience. I'm a self-driven person in terms of the work I do. Always learning and always propelling myself forward.
 <br />
+<br />
 In my 5 years of development experience, I've worked with numerous technologies ranging from vanilla applications ( Vanilla JS ) to stacks like MERN or those involving Golang, Solidity or Python. On the frontend side, I've worked with barebones, React, Next JS, Vue 3, Nuxt 3 & Svelte. On the backend side, I've developed API's and service workers in Node.js, Express, NestJS, HonoJS, Fastify, Flask & Gin Gonic. My databases familarity includes MySQL, SQLite, PostgreSQL, MongoDB, Cassandra & Firebase.
+<br />
 <br />
 In addition to programming languages, I pride myself in being well versed in system architecture and cloud computing knowledge. I design systems and architecture and continue to expand my horizons in that verse by reading books & taking further courses. Data structures and algorithms are also a part of my skillset albiet it's something given if one is a good engineer.
 </p>
-
+<br />
 ###
 
 <div align="center">
