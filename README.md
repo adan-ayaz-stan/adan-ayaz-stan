@@ -13,9 +13,9 @@
 
 I focus on modern, production-ready technologies:
 
+* **Programming Languages:** TypeScript, Golang, Python, C#
 * **Frontend:** TypeScript, React, Next.js, Vue 3, Nuxt 3, Tailwind CSS
-* **Backend:** Node.js, NestJS, Express
-* **Database:** PostgreSQL, MongoDB, Supabase, Prisma ORM
+* **Backend:** Node.js, NestJS, Express, Fastify, Hono, Gin Gonic, FastAPI
 * **Architecture:** REST APIs, tRPC, System Design
 
 <br />
