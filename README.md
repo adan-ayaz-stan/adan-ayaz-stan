@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adan Ayaz 👋</h1>
-<h3 align="center">Full Stack Engineer | TypeScript Specialist</h3>
+<h3 align="center">System Architect | AI Engineer</h3>
 
 <p align="center">
   I am a Full Stack Engineer with 4+ years of experience building scalable web applications. My primary expertise lies in the <b>JavaScript/TypeScript</b> ecosystem, with deep proficiency in both the <b>React</b> and <b>Vue</b> frameworks.
