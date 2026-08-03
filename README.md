@@ -2,7 +2,7 @@
 <h3 align="center">System Architect | AI Engineer</h3>
 
 <p align="center">
-  I am a <b>Software Architect & AI Engineer</b> focused on building intelligent applications, scalable systems, and automated workflows[cite: 1]. My expertise spans <b>Python, TypeScript, Golang, and C# (.NET)</b>, along with modern cloud and AI architectures.
+  I am a <b>Software Architect & AI Engineer</b> focused on building intelligent applications, scalable systems, and automated workflows. My expertise spans <b>Python, TypeScript, Golang, and C# (.NET)</b>, along with modern cloud and AI architectures.
   <br /><br />
   I specialize in AI automation, production data pipelines, full-stack systems, and Web3 infrastructure. Driven by clean architecture, type safety, and engineering high-impact tools that save time and scale effortlessly.
 </p>
