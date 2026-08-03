@@ -2,9 +2,9 @@
 <h3 align="center">System Architect | AI Engineer</h3>
 
 <p align="center">
-  I am a Full Stack Engineer with 4+ years of experience building scalable web applications. My primary expertise lies in the <b>JavaScript/TypeScript</b> ecosystem, with deep proficiency in both the <b>React</b> and <b>Vue</b> frameworks.
+  I am a <b>Software Architect & AI Engineer</b> focused on building intelligent applications, scalable systems, and automated workflows[cite: 1]. My expertise spans <b>Python, TypeScript, Golang, and C# (.NET)</b>, along with modern cloud and AI architectures.
   <br /><br />
-  I focus on writing clean, type-safe code and designing maintainable system architectures. Currently, I am expanding my knowledge in cloud infrastructure and advanced system design.
+  I specialize in AI automation, production data pipelines, full-stack systems, and Web3 infrastructure. Driven by clean architecture, type safety, and engineering high-impact tools that save time and scale effortlessly[cite: 1].
 </p>
 
 <br />
